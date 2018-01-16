@@ -14,7 +14,7 @@ header {
 }
 
 header .bg {
-  filter: brightness(0.4) url(#svg-blur);
+  filter: brightness(0.4) url(../img/filter.svg#svg.blur);
   background: url(../img/test2.jpg);
   position: absolute;
   top: -10px;
