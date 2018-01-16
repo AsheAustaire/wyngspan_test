@@ -14,7 +14,7 @@ header {
 }
 
 header .bg {
-  filter: brightness(0.4) url(../img/filter.svg#svg-blur);
+  filter: brightness(0.2) url(../img/filter.svg#svg-blur);
   background: url(../img/test2.jpg);
   position: absolute;
   top: -10px;
@@ -45,7 +45,8 @@ position: relative;
 
 header p {
   width: 80%;
-  background: white;
+  /* background: white; */
+  color: white;
   margin: auto;
   padding: 20px;
   border-radius: 5px;
